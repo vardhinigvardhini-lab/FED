@@ -1,0 +1,14 @@
+form{
+    background-color:yellow;
+}
+select{
+    color:blue;
+}
+textarea{
+    color:green;
+}
+input{
+  color:red;
+  font-size:20px;
+  font-style:italic;
+}
